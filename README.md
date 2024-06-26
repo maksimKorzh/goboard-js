@@ -1,2 +1,3 @@
-# goboard-js
-A very compact implementation of a Go rules + board in JavaScript 
+# BMGP
+Bare Minimum Go Program
+<a href="https://maksimkorzh.github.io/goboard-js/goboard.html">Try it now</a>
